@@ -1,4 +1,11 @@
-## Sass & Scss
+Sass & Scss
+CSS
+Front-end
+SASS
+Weight: 1
+Project will start Aug 12, 2024 6:00 AM, must end by Aug 19, 2024 6:00 AM
+Checker was released at Aug 14, 2024 12:00 AM
+An auto review will be launched at the deadline
 
 ### Learning Objectives
 
@@ -12,3 +19,5 @@
 - How to use mixins
 - How to declare extend/inheritance styles
 - How to manipulate operators
+
+Benjamin Richard
